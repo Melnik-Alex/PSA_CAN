@@ -2,7 +2,7 @@
 
 | Address        | Len           | Content  | Example  | 
 | :-------------: |:-------------:| :-----| :-----:
-| 128     | 8 | Engine temp, odometer | 88 80 08 88 00 5B 78 20 |
+| 0F6     | 8 | Engine temp, odometer | 88 80 08 88 00 5B 78 20 |
 
 | Byte | Bit        |  Content |
 | :-------------: | :-------------: |:-------------:|
